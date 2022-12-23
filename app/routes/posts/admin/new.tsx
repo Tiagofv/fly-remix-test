@@ -62,7 +62,7 @@ export default function NewPost() {
             {validateError(errors?.title)}
             <p>
                 <label>
-                    Post Title:{" "}
+                    Post Titles:{" "}
                     <input
                         type="text"
                         name="title"
